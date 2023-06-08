@@ -1,0 +1,11 @@
+com\ecommerce\externaldatautilities\XLUtility.class
+com\ecommerce\testcases\StandAloneTest.class
+com\ecommerce\testcases\TC_002_ExcelTest.class
+com\ecommerce\testcases\TC_003_JsonTest.class
+com\ecommerce\testcomponents\Retry.class
+com\ecommerce\testcomponents\Base.class
+com\ecommerce\testcases\TC_001_LoginTest.class
+com\ecommerce\testcomponents\Listeners.class
+com\ecommerce\externaldatautilities\DataReader$1.class
+com\ecommerce\externaldatautilities\DataReader.class
+com\ecommerce\testcomponents\Base$1.class

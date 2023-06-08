@@ -1,0 +1,369 @@
+2023-06-08 01:46:01,400  INFO [main] Base:79 - ******browser launched****
+2023-06-08 01:46:04,590  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 01:46:04,605  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 01:46:05,036  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 01:46:06,508  INFO [main] Base:79 - ******browser launched****
+2023-06-08 01:46:09,348  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 01:46:09,350  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 01:46:09,724  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 01:46:11,154  INFO [main] Base:79 - ******browser launched****
+2023-06-08 01:46:13,902  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 01:46:13,904  INFO [main] Base:30 - ******login error validation invalid data*****
+2023-06-08 01:46:14,284  INFO [main] Base:32 - ******entered invalid credentials*****
+2023-06-08 01:46:14,607  INFO [main] Base:34 - ****** error msg displayed*****
+2023-06-08 01:46:14,678  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 01:46:16,151  INFO [main] Base:79 - ******browser launched****
+2023-06-08 01:46:18,681  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 01:46:18,685  INFO [main] Base:13 - ******login validation test with valid data*****
+2023-06-08 01:46:19,059  INFO [main] Base:15 - ******entered valid credentials*****
+2023-06-08 01:46:19,071  INFO [main] Base:19 - ******title matched*****
+2023-06-08 01:46:19,073  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 01:46:20,850  INFO [main] Base:79 - ******browser launched****
+2023-06-08 01:46:23,367  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 01:46:23,738  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 01:46:37,173  INFO [main] Base:33 - ******product added success*****
+2023-06-08 01:46:37,290  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 01:46:37,736  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 01:46:38,932  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 01:46:40,446  INFO [main] Base:79 - ******browser launched****
+2023-06-08 01:46:42,873  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 01:46:43,237  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 01:46:56,565  INFO [main] Base:33 - ******product added success*****
+2023-06-08 01:46:56,670  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 01:46:56,968  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 01:46:58,084  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 01:46:59,557  INFO [main] Base:79 - ******browser launched****
+2023-06-08 01:47:02,106  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 01:47:02,107  INFO [main] Base:59 - ******Order history test method*****
+2023-06-08 01:47:02,470  INFO [main] Base:62 - ******loged in order history with valid data*****
+2023-06-08 01:47:02,841  INFO [main] Base:64 - ******view the order from order page*****
+2023-06-08 01:47:03,032  INFO [main] Base:67 - ******verified order is matched*****
+2023-06-08 01:47:03,033  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:02:47,053  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:02:49,926  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:02:49,943  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 02:02:50,351  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:02:51,798  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:02:54,353  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:02:54,354  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 02:02:54,720  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:02:56,230  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:02:58,743  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:02:58,744  INFO [main] Base:30 - ******login error validation invalid data*****
+2023-06-08 02:02:59,125  INFO [main] Base:32 - ******entered invalid credentials*****
+2023-06-08 02:02:59,428  INFO [main] Base:34 - ****** error msg displayed*****
+2023-06-08 02:02:59,504  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:03:00,906  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:03:03,643  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:03:03,645  INFO [main] Base:13 - ******login validation test with valid data*****
+2023-06-08 02:03:04,011  INFO [main] Base:15 - ******entered valid credentials*****
+2023-06-08 02:03:04,023  INFO [main] Base:19 - ******title matched*****
+2023-06-08 02:03:04,024  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:03:05,853  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:03:08,380  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:03:08,755  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 02:03:22,268  INFO [main] Base:33 - ******product added success*****
+2023-06-08 02:03:22,398  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 02:03:22,775  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 02:03:23,944  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:03:25,408  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:03:28,051  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:03:28,437  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 02:03:41,785  INFO [main] Base:33 - ******product added success*****
+2023-06-08 02:03:41,903  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 02:03:42,269  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 02:03:43,473  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:03:44,953  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:03:47,499  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:03:47,500  INFO [main] Base:59 - ******Order history test method*****
+2023-06-08 02:03:47,855  INFO [main] Base:62 - ******loged in order history with valid data*****
+2023-06-08 02:03:48,250  INFO [main] Base:64 - ******view the order from order page*****
+2023-06-08 02:03:48,446  INFO [main] Base:67 - ******verified order is matched*****
+2023-06-08 02:03:48,447  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:13:57,950  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:14:01,662  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:14:01,676  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 02:14:02,073  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:14:03,481  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:14:06,019  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:14:06,020  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 02:14:06,378  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:14:07,797  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:14:10,445  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:14:10,447  INFO [main] Base:30 - ******login error validation invalid data*****
+2023-06-08 02:14:10,825  INFO [main] Base:32 - ******entered invalid credentials*****
+2023-06-08 02:14:11,583  INFO [main] Base:34 - ****** error msg displayed*****
+2023-06-08 02:14:11,658  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:14:13,161  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:14:15,740  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:14:15,743  INFO [main] Base:13 - ******login validation test with valid data*****
+2023-06-08 02:14:16,113  INFO [main] Base:15 - ******entered valid credentials*****
+2023-06-08 02:14:16,123  INFO [main] Base:19 - ******title matched*****
+2023-06-08 02:14:16,124  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:14:17,826  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:14:20,574  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:14:20,939  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 02:14:39,384  INFO [main] Base:33 - ******product added success*****
+2023-06-08 02:14:39,498  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 02:14:40,054  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 02:14:41,330  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:14:42,821  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:14:45,488  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:14:45,862  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 02:15:04,175  INFO [main] Base:33 - ******product added success*****
+2023-06-08 02:15:04,301  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 02:15:05,424  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 02:15:06,582  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:15:08,038  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:15:10,566  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:15:10,569  INFO [main] Base:59 - ******Order history test method*****
+2023-06-08 02:15:10,931  INFO [main] Base:62 - ******loged in order history with valid data*****
+2023-06-08 02:15:11,305  INFO [main] Base:64 - ******view the order from order page*****
+2023-06-08 02:15:11,494  INFO [main] Base:67 - ******verified order is matched*****
+2023-06-08 02:15:11,495  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:25:21,672  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:25:25,628  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:25:25,640  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 02:25:26,040  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:25:27,520  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:25:30,061  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:25:30,062  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 02:25:30,431  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:25:31,855  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:25:34,469  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:25:34,470  INFO [main] Base:30 - ******login error validation invalid data*****
+2023-06-08 02:25:34,834  INFO [main] Base:32 - ******entered invalid credentials*****
+2023-06-08 02:25:35,126  INFO [main] Base:34 - ****** error msg displayed*****
+2023-06-08 02:25:35,202  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:25:36,609  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:25:39,103  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:25:39,105  INFO [main] Base:13 - ******login validation test with valid data*****
+2023-06-08 02:25:39,478  INFO [main] Base:15 - ******entered valid credentials*****
+2023-06-08 02:25:39,490  INFO [main] Base:19 - ******title matched*****
+2023-06-08 02:25:39,491  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:25:41,271  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:25:43,869  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:25:44,246  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 02:26:02,732  INFO [main] Base:33 - ******product added success*****
+2023-06-08 02:26:02,868  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 02:26:03,561  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 02:26:04,691  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:26:05,957  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:26:08,540  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:26:08,922  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 02:26:27,343  INFO [main] Base:33 - ******product added success*****
+2023-06-08 02:26:27,447  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 02:26:27,926  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 02:26:29,041  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 02:26:30,408  INFO [main] Base:79 - ******browser launched****
+2023-06-08 02:26:33,110  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 02:26:33,114  INFO [main] Base:59 - ******Order history test method*****
+2023-06-08 02:26:33,503  INFO [main] Base:62 - ******loged in order history with valid data*****
+2023-06-08 02:26:33,913  INFO [main] Base:64 - ******view the order from order page*****
+2023-06-08 02:26:34,104  INFO [main] Base:67 - ******verified order is matched*****
+2023-06-08 02:26:34,106  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 08:36:03,124  INFO [main] Base:79 - ******browser launched****
+2023-06-08 08:36:06,589  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 08:36:06,602  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 08:36:07,018  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 08:36:08,440  INFO [main] Base:79 - ******browser launched****
+2023-06-08 08:36:11,676  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 08:36:11,678  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 08:36:12,053  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 08:36:13,541  INFO [main] Base:79 - ******browser launched****
+2023-06-08 08:36:16,658  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 08:36:16,659  INFO [main] Base:30 - ******login error validation invalid data*****
+2023-06-08 08:36:17,039  INFO [main] Base:32 - ******entered invalid credentials*****
+2023-06-08 08:36:17,351  INFO [main] Base:34 - ****** error msg displayed*****
+2023-06-08 08:36:17,424  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 08:36:18,885  INFO [main] Base:79 - ******browser launched****
+2023-06-08 08:36:22,383  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 08:36:22,385  INFO [main] Base:13 - ******login validation test with valid data*****
+2023-06-08 08:36:22,765  INFO [main] Base:15 - ******entered valid credentials*****
+2023-06-08 08:36:22,777  INFO [main] Base:19 - ******title matched*****
+2023-06-08 08:36:22,778  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 08:36:24,531  INFO [main] Base:79 - ******browser launched****
+2023-06-08 08:36:27,545  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 08:36:27,923  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 08:36:46,778  INFO [main] Base:33 - ******product added success*****
+2023-06-08 08:36:46,899  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 08:36:47,445  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 08:36:48,669  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 08:36:50,126  INFO [main] Base:79 - ******browser launched****
+2023-06-08 08:36:53,623  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 08:36:53,986  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 08:37:12,488  INFO [main] Base:33 - ******product added success*****
+2023-06-08 08:37:12,602  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 08:37:13,328  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 08:37:14,547  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 08:37:16,026  INFO [main] Base:79 - ******browser launched****
+2023-06-08 08:37:18,848  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 08:37:18,849  INFO [main] Base:59 - ******Order history test method*****
+2023-06-08 08:37:19,250  INFO [main] Base:62 - ******loged in order history with valid data*****
+2023-06-08 08:37:19,700  INFO [main] Base:64 - ******view the order from order page*****
+2023-06-08 08:37:19,948  INFO [main] Base:67 - ******verified order is matched*****
+2023-06-08 08:37:19,949  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 08:38:50,805  INFO [main] Base:79 - ******browser launched****
+2023-06-08 08:38:53,437  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 08:38:53,453  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 08:38:53,854  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 08:38:55,263  INFO [main] Base:79 - ******browser launched****
+2023-06-08 08:38:58,235  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 08:38:58,235  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 08:38:58,601  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 08:39:00,076  INFO [main] Base:79 - ******browser launched****
+2023-06-08 08:39:02,681  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 08:39:02,681  INFO [main] Base:30 - ******login error validation invalid data*****
+2023-06-08 08:39:03,049  INFO [main] Base:32 - ******entered invalid credentials*****
+2023-06-08 08:39:03,354  INFO [main] Base:34 - ****** error msg displayed*****
+2023-06-08 08:39:03,421  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 08:39:04,821  INFO [main] Base:79 - ******browser launched****
+2023-06-08 08:39:07,575  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 08:39:07,575  INFO [main] Base:13 - ******login validation test with valid data*****
+2023-06-08 08:39:07,949  INFO [main] Base:15 - ******entered valid credentials*****
+2023-06-08 08:39:07,957  INFO [main] Base:19 - ******title matched*****
+2023-06-08 08:39:07,957  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 08:39:09,629  INFO [main] Base:79 - ******browser launched****
+2023-06-08 08:39:12,248  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 08:39:12,623  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 08:39:31,117  INFO [main] Base:33 - ******product added success*****
+2023-06-08 08:39:31,248  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 08:39:31,874  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 08:39:33,069  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 08:39:34,467  INFO [main] Base:79 - ******browser launched****
+2023-06-08 08:39:37,167  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 08:39:37,533  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 08:39:39,424  INFO [main] Base:33 - ******product added success*****
+2023-06-08 08:39:39,669  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 08:39:39,895  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 08:39:40,938  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 08:39:42,194  INFO [main] Base:79 - ******browser launched****
+2023-06-08 08:39:44,938  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 08:39:44,938  INFO [main] Base:59 - ******Order history test method*****
+2023-06-08 08:39:45,310  INFO [main] Base:62 - ******loged in order history with valid data*****
+2023-06-08 08:39:45,650  INFO [main] Base:64 - ******view the order from order page*****
+2023-06-08 08:39:45,817  INFO [main] Base:67 - ******verified order is matched*****
+2023-06-08 08:39:45,833  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 09:44:38,142  INFO [main] Base:79 - ******browser launched****
+2023-06-08 09:44:41,706  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 09:44:41,721  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 09:44:42,100  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 09:44:43,938  INFO [main] Base:79 - ******browser launched****
+2023-06-08 09:44:46,670  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 09:44:46,672  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 09:44:47,034  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 09:44:48,372  INFO [main] Base:79 - ******browser launched****
+2023-06-08 09:44:51,095  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 09:44:51,096  INFO [main] Base:30 - ******login error validation invalid data*****
+2023-06-08 09:44:51,455  INFO [main] Base:32 - ******entered invalid credentials*****
+2023-06-08 09:44:51,753  INFO [main] Base:34 - ****** error msg displayed*****
+2023-06-08 09:44:51,817  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 09:44:53,165  INFO [main] Base:79 - ******browser launched****
+2023-06-08 09:44:55,863  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 09:44:55,866  INFO [main] Base:13 - ******login validation test with valid data*****
+2023-06-08 09:44:56,216  INFO [main] Base:15 - ******entered valid credentials*****
+2023-06-08 09:44:56,227  INFO [main] Base:19 - ******title matched*****
+2023-06-08 09:44:56,228  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 09:44:58,419  INFO [main] Base:79 - ******browser launched****
+2023-06-08 09:45:00,989  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 09:45:01,341  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 09:45:19,706  INFO [main] Base:33 - ******product added success*****
+2023-06-08 09:45:19,824  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 09:45:20,139  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 09:45:21,349  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 09:45:23,077  INFO [main] Base:79 - ******browser launched****
+2023-06-08 09:45:25,654  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 09:45:25,995  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 09:45:44,337  INFO [main] Base:33 - ******product added success*****
+2023-06-08 09:45:44,456  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 09:45:44,886  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 09:45:46,050  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 09:45:47,751  INFO [main] Base:79 - ******browser launched****
+2023-06-08 09:45:50,438  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 09:45:50,439  INFO [main] Base:59 - ******Order history test method*****
+2023-06-08 09:45:50,776  INFO [main] Base:62 - ******loged in order history with valid data*****
+2023-06-08 09:45:51,171  INFO [main] Base:64 - ******view the order from order page*****
+2023-06-08 09:45:51,334  INFO [main] Base:67 - ******verified order is matched*****
+2023-06-08 09:45:51,336  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 10:15:49,004  INFO [main] Base:79 - ******browser launched****
+2023-06-08 10:15:52,418  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 10:15:52,436  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 10:15:52,852  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 10:15:54,690  INFO [main] Base:79 - ******browser launched****
+2023-06-08 10:15:57,349  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 10:15:57,350  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 10:15:57,683  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 10:15:59,397  INFO [main] Base:79 - ******browser launched****
+2023-06-08 10:16:02,035  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 10:16:02,036  INFO [main] Base:30 - ******login error validation invalid data*****
+2023-06-08 10:16:02,393  INFO [main] Base:32 - ******entered invalid credentials*****
+2023-06-08 10:16:02,726  INFO [main] Base:34 - ****** error msg displayed*****
+2023-06-08 10:16:02,803  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 10:16:04,631  INFO [main] Base:79 - ******browser launched****
+2023-06-08 10:16:07,116  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 10:16:07,121  INFO [main] Base:13 - ******login validation test with valid data*****
+2023-06-08 10:16:07,480  INFO [main] Base:15 - ******entered valid credentials*****
+2023-06-08 10:16:07,492  INFO [main] Base:19 - ******title matched*****
+2023-06-08 10:16:07,493  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 10:16:09,419  INFO [main] Base:79 - ******browser launched****
+2023-06-08 10:16:12,256  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 10:16:12,614  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 10:16:31,084  INFO [main] Base:33 - ******product added success*****
+2023-06-08 10:16:31,183  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 10:16:31,709  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 10:16:32,845  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 10:16:34,471  INFO [main] Base:79 - ******browser launched****
+2023-06-08 10:16:37,180  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 10:16:37,551  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 10:16:55,851  INFO [main] Base:33 - ******product added success*****
+2023-06-08 10:16:55,961  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 10:16:56,335  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 10:16:57,443  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 10:16:59,049  INFO [main] Base:79 - ******browser launched****
+2023-06-08 10:17:01,721  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 10:17:01,722  INFO [main] Base:59 - ******Order history test method*****
+2023-06-08 10:17:02,089  INFO [main] Base:62 - ******loged in order history with valid data*****
+2023-06-08 10:17:02,456  INFO [main] Base:64 - ******view the order from order page*****
+2023-06-08 10:17:02,630  INFO [main] Base:67 - ******verified order is matched*****
+2023-06-08 10:17:02,631  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 10:33:44,716  INFO [main] Base:79 - ******browser launched****
+2023-06-08 10:33:47,696  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 10:33:47,721  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 10:33:48,117  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 10:33:49,644  INFO [main] Base:79 - ******browser launched****
+2023-06-08 10:33:55,224  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 10:33:55,226  INFO [main] Base:43 - ******login data from excel*****
+2023-06-08 10:33:55,614  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 10:33:57,079  INFO [main] Base:79 - ******browser launched****
+2023-06-08 10:34:00,534  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 10:34:00,537  INFO [main] Base:30 - ******login error validation invalid data*****
+2023-06-08 10:34:00,904  INFO [main] Base:32 - ******entered invalid credentials*****
+2023-06-08 10:34:01,212  INFO [main] Base:34 - ****** error msg displayed*****
+2023-06-08 10:34:01,288  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 10:34:02,786  INFO [main] Base:79 - ******browser launched****
+2023-06-08 10:34:06,918  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 10:34:06,922  INFO [main] Base:13 - ******login validation test with valid data*****
+2023-06-08 10:34:07,302  INFO [main] Base:15 - ******entered valid credentials*****
+2023-06-08 10:34:07,316  INFO [main] Base:19 - ******title matched*****
+2023-06-08 10:34:07,318  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 10:34:09,166  INFO [main] Base:79 - ******browser launched****
+2023-06-08 10:34:14,412  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 10:34:14,793  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 10:34:33,853  INFO [main] Base:33 - ******product added success*****
+2023-06-08 10:34:33,979  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 10:34:36,177  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 10:34:38,838  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 10:34:40,401  INFO [main] Base:79 - ******browser launched****
+2023-06-08 10:34:46,861  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 10:34:47,263  INFO [main] Base:30 - ******user enterde the credential login success*****
+2023-06-08 10:35:05,909  INFO [main] Base:33 - ******product added success*****
+2023-06-08 10:35:06,031  INFO [main] Base:35 - ******entered cart page success*****
+2023-06-08 10:35:07,524  INFO [main] Base:40 - *****item matched with cart page success*****
+2023-06-08 10:35:09,074  INFO [main] Base:117 - ******browser closed*****
+2023-06-08 10:35:10,599  INFO [main] Base:79 - ******browser launched****
+2023-06-08 10:35:15,605  INFO [main] Base:83 - ****entered into the url*****
+2023-06-08 10:35:15,607  INFO [main] Base:59 - ******Order history test method*****
+2023-06-08 10:35:15,990  INFO [main] Base:62 - ******loged in order history with valid data*****
+2023-06-08 10:35:16,658  INFO [main] Base:64 - ******view the order from order page*****
+2023-06-08 10:35:18,207  INFO [main] Base:67 - ******verified order is matched*****
+2023-06-08 10:35:18,210  INFO [main] Base:117 - ******browser closed*****
